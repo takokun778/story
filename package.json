@@ -1,0 +1,25 @@
+{
+  "name": "story",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preview": "npx zenn preview",
+    "new": "npx zenn new:article",
+    "zenn": "npm install zenn-cli@latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takokun778/story.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takokun778/story/issues"
+  },
+  "homepage": "https://github.com/takokun778/story#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.132"
+  }
+}
