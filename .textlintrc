@@ -1,0 +1,7 @@
+{
+  "filters": {},
+  "rules": {
+    "ja-no-orthographic-variants": true,
+    "preset-ja-technical-writing": true
+  }
+}
